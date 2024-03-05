@@ -44,19 +44,25 @@ git clone https://github.com/khanfaisal79960/udemy-course-recommendation.git
 cd udemy-course-recommendation
 ```
 
-<p>3. Activate the Virtual Environment (Optional)</p>
+<p>3. Create the Virtual Environment (Optional)</p>
+
+```
+virtualenv venv
+```
+
+<p>4. Activate the Virtual Environment</p>
 
 ```
 Windows: .\venv\Scripts\activate  Linux: source ./venv/bin/activate
 ```
 
-<p>4. Install Dependancies</p>
+<p>5. Install Dependancies</p>
 
 ```
 pip install -r requirements.txt
 ```
 
-<p>5. Run the Project</p>
+<p>6. Run the Project</p>
 
 ```
 flask run
