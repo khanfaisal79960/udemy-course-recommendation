@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://udemy-course-recommendation-flzb.onrender.com/](https://udemy-course-recommendation-flzb.onrender.com/)
+[https://udemy-course-recommendation-system.replit.app](https://udemy-course-recommendation-system.replit.app)
 
 <h2>Project Screenshots:</h2>
 
