@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/khanfaisal79960/udemy-course-recommendation/image?description=1&amp;descriptionEditable=Unlocking%20Learning%20Potential%3A%20A%20Guided%20Journey%20Through%20Personalized%20%20Udemy%20Course%20Recommendations&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">"Embark on an enriching educational expedition with our Udemy Course Recommendation System. This meticulously designed platform harnesses the power of advanced recommendation algorithms to curate a personalized learning experience just for you. Seamlessly analyzing your preferences past courses and skill levels this system empowers learners to discover relevant and engaging courses on Udemy. Dive into a world of tailored educational content where each recommendation is a stepping stone towards your learning aspirations. Elevate your learning journey with precision and efficiency as our Udemy Course Recommendation System becomes your dedicated guide to a knowledge-rich future.</p>
+<p id="description">The Udemy Course Recommendation System project aims to develop a personalized recommendation system for online courses offered on the Udemy platform. By leveraging user behavior data and machine learning algorithms, the system suggests relevant courses to users based on their preferences.</p>
 
 <h2>🚀 Demo</h2>
 
